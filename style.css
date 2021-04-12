@@ -1,0 +1,14 @@
+.jumbotron {
+  padding: 4rem 1rem;
+  margin-bottom: 2.5cm;
+  background-image: url(Library.jpg);
+  color: white;
+}
+#book {
+  background-color: #6495ed;
+  color: #6495ed;
+}
+.buku {
+  color: white;
+  margin-bottom: 1.5cm;
+}
